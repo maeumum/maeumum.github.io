@@ -42,9 +42,9 @@ profiles:
     url: https://www.instagram.com/maeumum/
 
 interests:
-  - Large Language Models
+  - Data Engineering
+  - Cloud Computing 
   - Computer Vision
-  - Reinforcement Learning
   - AI Ethics
 
 education:
