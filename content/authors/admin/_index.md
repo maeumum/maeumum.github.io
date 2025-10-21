@@ -40,6 +40,9 @@ profiles:
     url: https://github.com/maeumum
   - icon: brands/instagram
     url: https://www.instagram.com/maeumum/
+  - icon: map-marker-alt 
+    icon_pack: fas 
+    link: https://maps.app.goo.gl/wSBEBiBKVHzH6p7y7
 
 interests:
   - Data Engineering
