@@ -130,3 +130,4 @@ awards:
 ---
 
 I am a student majoring in computer science at Jeonbuk National University. I am studying various fields to find my interest. I like to take a walk and my favorite food is hamburger!
+My phone number is +82-10-9108-8365. If you want to contact me, call this number
