@@ -36,7 +36,7 @@ header:
     show_theme_chooser: true
     logo:
       filename : logo.png
-      height : 50
+      height : 100
 
 # Site footer
 footer:
