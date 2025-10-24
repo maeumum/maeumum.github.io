@@ -80,17 +80,17 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
+      - name: Python
         description: ''
-        percent: 95
+        percent: 60
         icon: code-bracket
-      - name: Machine Learning
+      - name: Date Base (MySQL)
         description: ''
-        percent: 100
+        percent: 40
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+      - name: Cloud Computing (AWS)
         description: ''
-        percent: 85
+        percent: 30
         icon: cloud
   - name: Hobbies
     color: '#eeac02'
