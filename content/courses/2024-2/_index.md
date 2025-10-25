@@ -15,12 +15,12 @@ tags:
 content_meta:
   content_type: 'Semester'
   difficulty: 'Level 2'
-  prerequisites: ['2nd Year 1st Semester Courses']
+  prerequisites: ['2nd Year 2st Semester Courses']
   trending: true
 
 # ✅ 대표 이미지 설정을 여기에 추가했습니다.
 image:
-  filename: featured.jpg 
+  filename: featured.png
   caption: '2024-2학기: CS 심화 과정 시작'
   preview_only: false
 ---

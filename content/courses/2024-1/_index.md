@@ -15,8 +15,13 @@ tags:
 content_meta:
   content_type: 'Semester'
   difficulty: 'Level 2'
-  prerequisites: ['Markdown']
+  prerequisites: ['2nd Year 1st Semester Courses']
   trending: false
+
+image:
+  filename: featured.png 
+  caption: '2024-1학기: CS 심화 과정 시작'
+  preview_only: false
 ---
 
 👋 2학년 1학기 학습 기록 페이지입니다.

@@ -15,8 +15,13 @@ tags:
 content_meta:
   content_type: 'Semester'
   difficulty: 'Level 3'
-  prerequisites: ['2학년 전체 과정']
+  prerequisites: ['3rd Year 1st Semester Courses']
   trending: true
+
+image:
+  filename: featured.png
+  caption: '2025-1학기: CS 심화 과정 시작'
+  preview_only: false
 ---
 
 👋 3학년 1학기 학습 기록 페이지입니다.
