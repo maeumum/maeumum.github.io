@@ -1,10 +1,13 @@
 ---
-# 이 페이지 자체의 제목과 요약을 비워서, 불필요한 카드가 표시되지 않도록 합니다.
 title: ''
 summary: ''
 type: landing
 
-# 하위 모든 페이지(학기 및 과목)를 Docs 타입으로 설정하여 사이드바와 경로 표시를 활성화합니다.
+# 이 페이지 자체를 collection에서 제외
+_build:
+  render: always
+  list: false  # 리스트에서 제외
+
 cascade:
   - target:
       path: '{/courses/*/**}'
@@ -16,16 +19,15 @@ sections:
   - block: collection
     id: semesters
     content:
-      title: Academic Semesters
+      title: 학기별 학습 기록 (Academic Semesters)
       filters:
-        # courses 폴더 바로 아래의 모든 섹션(2024-1, 2024-2 등)을 불러옵니다.
         folders:
-          - courses/2025-1
-          - courses/2024-2
-          - courses/2024-1
+          - courses 
         kinds:
           - section
-        exclude_featured: false
+        # 자기 자신(_index.md)을 제외
+        exclude:
+          - '**/courses/_index.md'
     design:
       view: article-grid
       show_read_time: false
