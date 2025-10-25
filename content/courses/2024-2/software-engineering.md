@@ -1,20 +1,20 @@
 ---
-title: 소프트웨어 공학
+title: Software Engineering
 weight: 20
 ---
 
-## 핵심 학습 내용
+## Core Learning Topics
 
-* 요구사항 공학 (Requirements Engineering)의 중요성 및 기법 학습
-* 폭포수 모델, 애자일 방법론 등 다양한 소프트웨어 개발 생명주기 모델 이해
-* UML 다이어그램을 활용한 시스템 설계 및 분석
+* Learn the importance and techniques of Requirements Engineering
+* Understanding various software development life cycle models such as waterfall model, Agile methodology, etc
+* System Design and Analysis with UML Diagram
 
-## 주요 성과 (프로젝트 링크)
+## Key Achievements
 
-이론을 바탕으로 **소프트웨어 요구사항 명세서(SRS)**를 작성하고 개발 생명주기를 적용하는 팀 프로젝트를 수행했습니다.
+Based on the theory, we have created a **Software Requirements Statement (SRS)** and have undertaken a team project to apply the development life cycle.
 
 [Software Engineering Team Project](/projects/SW_Project)로 이동하여 상세 내용을 확인하세요.
 
-{{< callout tip >}}
-**배운 점:** 프로젝트 초기 단계에서 명확한 요구사항 정의가 전체 개발 일정과 품질에 미치는 영향을 체감했습니다. 이는 실무 프로젝트를 리딩하는 데 필수적인 역량입니다.
+{{< callout Impressionp >}}
+In the early stages of the project, I felt the impact of a clear definition of requirements on the overall development schedule and quality.
 {{< /callout >}}

@@ -1,6 +1,6 @@
 ---
 linkTitle: 2024-2
-title: Course Records for 2024-2 Semester
+title: 2024-2
 weight: 9
 date: 2024-09-01
 type: docs
@@ -15,19 +15,18 @@ tags:
 content_meta:
   content_type: 'Semester'
   difficulty: 'Level 2'
-  prerequisites: ['2nd Year 2st Semester Courses']
+  prerequisites: ['2nd Year 1st Semester Courses Completed']
   trending: true
 
-# ✅ 대표 이미지 설정을 여기에 추가했습니다.
 image:
   filename: featured.png
-  caption: '2024-2학기: CS 심화 과정 시작'
+  caption: '2024-2nd Semester: Deepening the Core CS Curriculum'
   preview_only: false
 ---
 
-👋 This is the course record page for the 2nd Year, 2nd Semester.
+👋 This page documents my academic progress for the **2nd Year, 2nd Semester**.
 
-In this semester, I focused on improving problem-solving skills and understanding real-world development processes through **Algorithms** and **Software Engineering**. I also strengthened my fundamental computer science knowledge by studying **Data Communication** and **Computer Architecture**.
+This semester focused on enhancing problem-solving capabilities through **Algorithms** and grasping practical development processes via **Software Engineering**. I also reinforced fundamental computer science knowledge by studying **Data Communication** and **Computer Architecture**.
 
 ## Detailed Course Records
 

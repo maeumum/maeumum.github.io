@@ -14,7 +14,7 @@ sections:
   - block: collection
     id: courses
     content:
-      title: My Courses (학기별 기록) # 제목을 명확히 변경
+      title: My Courses # 제목을 명확히 변경
       filters:
         folders: # 이 줄을 추가하여 courses 폴더 바로 아래의 모든 폴더를 대상으로 지정
           - courses 
