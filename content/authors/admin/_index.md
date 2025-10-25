@@ -103,7 +103,7 @@ skills:
       - name: Cooking
         description: ''
         percent: 90
-        icon: cook
+        icon: cake
       - name: Reading comic books
         description: ''
         percent: 70

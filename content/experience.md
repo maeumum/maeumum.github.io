@@ -1,5 +1,5 @@
 ---
-title: 'Education, Awards & Skills' # 페이지 제목에 Education을 추가했습니다.
+title: 'Experience'
 date: 2023-10-24
 type: landing
 
@@ -10,25 +10,28 @@ design:
 
 # Page sections
 sections:
-  - block: resume-education  # 📝 Education 섹션을 추가합니다.
+  - block: resume-experience
     content:
       username: admin
-      title: Education
     design:
-      # Hugo date format (날짜 형식을 유지합니다)
-      date_format: 'January 2006' 
-  - block: resume-awards  # 🏆 Awards 섹션 (Awards & Recognition)
-    content:
-      title: Awards & Recognition
-      username: admin
-  - block: resume-skills  # 🛠️ Skills 섹션
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: true
+      show_experience: false
+  - block: resume-skills
     content:
       title: Skills & Hobbies
       username: admin
     design:
       show_skill_percentage: false
-  - block: resume-languages # 🗣️ Languages 섹션
+  - block: resume-awards
+    content:
+      title: Awards
+      username: admin
+  - block: resume-languages
     content:
       title: Languages
       username: admin
 ---
+
