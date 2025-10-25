@@ -1,17 +1,18 @@
 ---
-title: 리눅스
+title: Linux Promgramming
 weight: 60
 ---
 
-## 핵심 학습 내용
+## 핵심 학습 내용 (Core Learning Topics)
 
-* 객체지향 4대 원칙 (추상화, 캡슐화, 상속, 다형성)의 심층 이해
-* Java 언어를 활용한 실제 구현 연습
+* **Shell Scripting:** Writing basic to intermediate level shell scripts (Bash) for automation tasks.
+* **System Calls:** Understanding and using fundamental Linux system calls for file I/O and process management (fork, exec, wait).
+* **Development Environment:** Proficiency in using Linux-based development tools (gcc, make, gdb).
 
-## 주요 성과 (프로젝트 링크)
+## 주요 성과 (Key Achievements)
 
-[OOP Programing Team Project](/projects/oop_project)로 이동하여 상세 내용을 확인하세요.
+Developed a command-line tool in C that utilized system calls to perform file manipulation, demonstrating low-level system understanding.
 
 {{< callout Impression >}}
-**배운 점:** OOP는 코드의 재사용성과 유지보수성을 극대화하는 중요한 패러다임임을 깨달았습니다.
+I learned that understanding the Linux environment is fundamental to server development and system programming
 {{< /callout >}}

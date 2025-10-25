@@ -1,5 +1,5 @@
 ---
-title: 선형대수
+title: Linear Algebra
 weight: 50
 ---
 
