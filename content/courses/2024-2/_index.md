@@ -17,6 +17,12 @@ content_meta:
   difficulty: 'Level 2'
   prerequisites: ['2nd Year 1st Semester Courses']
   trending: true
+
+# ✅ 대표 이미지 설정을 여기에 추가했습니다.
+image:
+  filename: featured.jpg 
+  caption: '2024-2학기: CS 심화 과정 시작'
+  preview_only: false
 ---
 
 👋 This is the course record page for the 2nd Year, 2nd Semester.
