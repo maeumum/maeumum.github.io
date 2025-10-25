@@ -56,7 +56,6 @@ education:
     date_end: 
     summary: |
       Currently in the course of completion
-r
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
