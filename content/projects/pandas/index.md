@@ -1,15 +1,15 @@
 ---
-title: Pandas
-date: 2023-10-26
+title: Software Engineering Team Project
+date: 2024-12-14
 links:
   - type: site
-    url: https://github.com/pandas-dev/pandas
+    url: https://github.com/maeumum/2024-SW-Project
 tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+  - SRS document
+  - Requirements Engineering
+  - Waterfall model
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+A project to develop an electric device control system for automobiles based on the required engineering theory
 
 <!--more-->
