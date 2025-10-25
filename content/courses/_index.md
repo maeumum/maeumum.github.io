@@ -16,13 +16,16 @@ sections:
   - block: collection
     id: semesters
     content:
-      title: 학기별 학습 기록 (Academic Semesters)
+      title: Academic Semesters
       filters:
         # courses 폴더 바로 아래의 모든 섹션(2024-1, 2024-2 등)을 불러옵니다.
         folders:
-          - courses 
+          - courses/2025-1
+          - courses/2024-2
+          - courses/2024-1
         kinds:
           - section
+        exclude_featured: false
     design:
       view: article-grid
       show_read_time: false
