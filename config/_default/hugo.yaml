@@ -6,7 +6,7 @@
 # Website name
 title: MaEum's homepage
 # Website URL
-baseURL: 'https://github.com/maeumum/maeumum.github.io'
+baseURL: 'https://maeumum.github.io'
 
 ############################
 ## LANGUAGE
