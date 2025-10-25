@@ -12,6 +12,6 @@ weight: 70
 
 [OOP Programing Team Project](/projects/oop_project)로 이동하여 상세 내용을 확인하세요.
 
-{{< callout tip >}}
+{{< callout Impression >}}
 **배운 점:** OOP는 코드의 재사용성과 유지보수성을 극대화하는 중요한 패러다임임을 깨달았습니다.
 {{< /callout >}}

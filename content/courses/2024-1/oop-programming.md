@@ -13,6 +13,6 @@ weight: 20
 
 Team project conducted to implement a simple game using Java and apply OOP principles.
 
-{{< callout tip >}}
-**Impression:** Through this subject, I realized that OOP is an important paradigm for maximizing reusability and maintenance of code.
+{{< callout Impression >}}
+Through this subject, I realized that OOP is an important paradigm for maximizing reusability and maintenance of code.
 {{< /callout >}}

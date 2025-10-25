@@ -13,6 +13,6 @@ weight: 30
 
 Successfully implemented fundamental data structures (Stack using Array, Queue using Linked List) in C++.
 
-{{< callout example >}}
-**Impression:** Through this course, I felt how important it is to choose the right data structure for efficiency when solving algorithmic problems.
+{{< callout Impression >}}
+Through this course, I felt how important it is to choose the right data structure for efficiency when solving algorithmic problems.
 {{< /callout >}}
