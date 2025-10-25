@@ -56,7 +56,7 @@ education:
     date_end: 
     summary: |
       Currently in the course of completion
-
+r
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -93,7 +93,7 @@ skills:
 
 languages:
   - name: English
-    percent: 50
+    percent: 60
   - name: Korean
     percent: 100
 

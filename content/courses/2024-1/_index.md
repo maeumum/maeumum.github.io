@@ -30,9 +30,9 @@ This semester has laid a key foundation for computer engineering, focusing on **
 ## Detailed Course Records
 
 {{< cards >}}
-  {{< card url="linux-programming" title="Linux Programming" icon="terminal" subtitle="Practical C-based programming in a Linux environment, including Shell Scripting." >}}
+  {{< card url="linux-programming" title="Linux Programming" icon="command-line" subtitle="Practical C-based programming in a Linux environment, including Shell Scripting." >}}
   {{< card url="oop-programming" title="Object-Oriented Programming" icon="code-bracket" subtitle="Gained a solid understanding of the four core principles of OOP using Java and completed a significant team project." >}}
   {{< card url="data-structure" title="Data Structures" icon="list-bullet" subtitle="Implemented core data structures including Array, Stack, Queue, and Linked List." >}}
-  {{< card url="linear-algebra" title="Linear Algebra" icon="square-root" subtitle="Acquired foundational mathematical knowledge for Artificial Intelligence, covering vector spaces and matrices." >}}
+  {{< card url="linear-algebra" title="Linear Algebra" icon="calculator" subtitle="Acquired foundational mathematical knowledge for Artificial Intelligence, covering vector spaces and matrices." >}}
   {{< card url="logic-design" title="Logic Design" icon="cpu-chip" subtitle="Studied the fundamentals of digital logic circuit design and gained an understanding of basic hardware components." >}}
 {{< /cards >}}
