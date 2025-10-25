@@ -14,6 +14,6 @@ weight: 10
 * I implemented various sorting and searching algorithms directly in Python and compared their performance.
 * By utilizing online blocking systems such as Baekjun, i focus on solving graph search (BFS/DFS) problems and improve problem-solving ability.
 
-{{< callout Impressionp >}}
+{{< callout Impression >}}
 While inefficient code works, i realize that algorithmic design has a decisive impact on performance in large data environments.
 {{< /callout >}}
