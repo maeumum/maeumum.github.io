@@ -1,17 +1,18 @@
 ---
-title: 자구
+title: 자료구조
 weight: 30
 ---
 
-## 핵심 학습 내용
+## 핵심 학습 내용 (Core Learning Topics)
 
-* 객체지향 4대 원칙 (추상화, 캡슐화, 상속, 다형성)의 심층 이해
-* Java 언어를 활용한 실제 구현 연습
+* **Linear Structures:** Implementation and utilization of Stack, Queue, and Linked Lists (Singly, Doubly).
+* **Non-linear Structures:** Principles and traversal methods (BFS/DFS) of Trees and Graphs.
+* **Performance Analysis:** Understanding and analyzing the time complexity ($O(N), O(\log N)$) of various data structures.
 
-## 주요 성과 (프로젝트 링크)
+## 주요 성과 (Key Achievements)
 
-[OOP Programing Team Project](/projects/oop_project)로 이동하여 상세 내용을 확인하세요.
+Successfully implemented fundamental data structures (Stack using Array, Queue using Linked List) in C++.
 
-{{< callout tip >}}
-**배운 점:** OOP는 코드의 재사용성과 유지보수성을 극대화하는 중요한 패러다임임을 깨달았습니다.
+{{< callout example >}}
+**프로젝트 연관:** Through this course, I felt how important it is to choose the right data structure for efficiency when solving algorithmic problems.
 {{< /callout >}}

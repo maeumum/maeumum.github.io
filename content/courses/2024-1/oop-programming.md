@@ -13,8 +13,6 @@ weight: 20
 
 Team project conducted to implement a simple game using Java and apply OOP principles.
 
-[OOP Programing Team Project](/projects/OOP_Project)로 이동하여 상세 내용을 확인하세요.
-
 {{< callout tip >}}
-**배운 점:** OOP는 코드의 재사용성과 유지보수성을 극대화하는 중요한 패러다임임을 깨달았습니다.
+**배운 점:** Through this subject, I realized that OOP is an important paradigm for maximizing reusability and maintenance of code.
 {{< /callout >}}
