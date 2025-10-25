@@ -13,8 +13,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: '전북대학교'
-    description: '마음의 개인 포트폴리오 - 전북대학교 [컴퓨터인공지능학부]'
+    org_name: '전북대학교 컴퓨터인공지능학부'
+    description: '전북대학교 컴퓨터인공지능학부 학생 마음(MaEum)의 포트폴리오 및 학습 기록. Data Engineering, Cloud Computing, AI Ethics 연구에 관심이 있습니다.'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
