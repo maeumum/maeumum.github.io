@@ -19,7 +19,7 @@ sections:
   - block: collection
     id: semesters
     content:
-      title: 학기별 학습 기록 (Academic Semesters)
+      title: Academic Semesters
       filters:
         folders:
           - courses 
