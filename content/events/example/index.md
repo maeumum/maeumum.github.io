@@ -136,17 +136,6 @@ Through this lecture, my dream as a software developer became more concrete. In 
 - ✅ **User-Centric Thinking**: People before technology
 - ✅ **Challenging Spirit**: Courage not to fear failure
 
-## Event Photos
-
-![Lecture Hall](event-hall.jpg)
-*Grand Auditorium at Jeondae Academic & Cultural Center*
-
-![Chairman Chang's Lecture](speaker.jpg)
-*Chairman Chang passionately delivering his lecture*
-
-![Q&A Session](qa-session.jpg)
-*Active Q&A session*
-
 ## Organized & Hosted By
 
 ### Organized By
