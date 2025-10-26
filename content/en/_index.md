@@ -29,6 +29,25 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
+  - block : gallery
+    id : image-slider
+    content:
+      title: ''
+      subtitle: ''
+      # 이미지 목록 (static/uploads/ 또는 content/ 내 경로)
+      items:
+        - image: media/slide1.jpg
+          caption: 'Exploring AI frontiers'
+        - image: media/slide2.jpg
+          caption: 'Collaborative research'
+        - image: media/slide3.jpg
+          caption: 'Data-driven innovation'
+      # 슬라이더(캐러셀) 활성화
+      slider: true
+      autoplay: true
+      interval: 4000 # 밀리초 단위 (4초)
+    design:
+      columns: '1'
   - block: markdown
     content:
       title: '📚 My Research'
