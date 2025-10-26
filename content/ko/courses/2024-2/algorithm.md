@@ -1,19 +1,19 @@
 ---
-title: Algorithm
+title: 알고리즘
 weight: 10
 ---
 
-## Core Learning Topics
+## 핵심 학습 주제
 
-* **Algorithm Analysis:** Understanding Time and Space Complexity ($O()$ notation) for algorithm efficiency evaluation.
-* **Design Paradigms:** Mastering key techniques like Divide and Conquer, Greedy Algorithms, and Dynamic Programming.
-* **Data Structures for Algorithms:** Practical application of advanced data structures such as Heaps, Hash Tables, and Graphs in problem-solving.
+* **알고리즘 분석:** 알고리즘 효율 평가를 위한 시간 및 공간 복잡도($O()$ 표기법) 이해.
+* **설계 패러다임:** 분할 정복, 탐욕 알고리즘, 동적 프로그래밍 등 핵심 기법 습득.
+* **알고리즘을 위한 자료구조:** 힙, 해시 테이블, 그래프 등 고급 자료구조의 문제 해결 적용 실습.
 
-## Key Achievements
+## 주요 성취
 
-* I implemented various sorting and searching algorithms directly in Python and compared their performance.
-* By utilizing online blocking systems such as Baekjun, i focus on solving graph search (BFS/DFS) problems and improve problem-solving ability.
+* 다양한 정렬 및 탐색 알고리즘을 Python으로 직접 구현하고 성능 비교.
+* 백준 등 온라인 채점 시스템을 활용하여 그래프 탐색(BFS/DFS) 문제 해결 집중, 문제 해결 능력 향상.
 
-{{< callout Impression >}}
-While inefficient code works, i realize that algorithmic design has a decisive impact on performance in large data environments.
+{{< callout 느낀점 >}}
+비효율적인 코드도 동작하지만, 알고리즘 설계가 대규모 데이터 환경에서 성능에 결정적 영향을 준다는 것을 깨달았습니다.
 {{< /callout >}}

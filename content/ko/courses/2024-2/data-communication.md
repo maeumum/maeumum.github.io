@@ -1,19 +1,19 @@
 ---
-title:  Data Communication
+title: 데이터 통신
 weight: 40
 ---
 
-## Core Learning Topics
+## 핵심 학습 주제
 
-* **OSI & TCP/IP Models:** Deep understanding of the 7-layer OSI model and the 4-layer TCP/IP stack, focusing on the roles of each layer.
-* **Key Protocols:** Detailed study of crucial protocols like TCP (reliability, flow control, congestion control) and IP (addressing, routing).
-* **Physical Layer:** Fundamentals of signal transmission, encoding, and multiplexing techniques.
+* **OSI 및 TCP/IP 모델:** 7계층 OSI 모델과 4계층 TCP/IP 스택의 깊이 있는 이해, 각 계층의 역할 중심.
+* **주요 프로토콜:** TCP(신뢰성, 흐름 제어, 혼잡 제어) 및 IP(주소 지정, 라우팅) 등 핵심 프로토콜 상세 학습.
+* **물리 계층:** 신호 전송, 인코딩, 다중화 기법의 기초.
 
-## Key Achievements
+## 주요 성취
 
-* **Learning the basics of Socket Programming**, I have demonstrated the concept of the data link layer and the transport layer on a hands-on basis.
-* Understanding the network error detection and recovery mechanisms realized the importance of designing stable communication systems..
+* **소켓 프로그래밍 기초 학습**을 통해 데이터 링크 계층과 전송 계층 개념을 실습 기반으로 이해.
+* 네트워크 오류 검출 및 복구 메커니즘을 이해하며 안정적인 통신 시스템 설계의 중요성 체득.
 
-{{< callout Impression >}}
-The underlying causes of latency or errors in web development or cloud computing environments can now be analyzed from a network perspective.
+{{< callout **느낀점** >}}
+웹 개발이나 클라우드 컴퓨팅 환경에서 발생하는 지연 또는 오류의 근본 원인을 네트워크 관점에서 분석할 수 있게 되었습니다.
 {{< /callout >}}

@@ -1,19 +1,19 @@
 ---
-title: Computer Architecture
+title: 컴퓨터 구조
 weight: 30
 ---
 
-Core Learning Topics
+## 핵심 학습 주제
 
-* **CPU Design:** Detailed understanding of the data path, control unit, and instruction cycle.
-* **Memory Hierarchy:** Principles of cache memory, virtual memory, and their impact on system performance.
-* **Pipelining & Parallelism:** Concepts of instruction-level parallelism (ILP) and techniques like pipelining to increase CPU throughput.
+* **CPU 설계:** 데이터 경로, 제어 장치, 명령어 사이클에 대한 상세 이해.
+* **메모리 계층:** 캐시 메모리, 가상 메모리 원리 및 시스템 성능에 미치는 영향.
+* **파이프라이닝 및 병렬 처리:** 명령어 수준 병렬성(ILP) 개념과 CPU 처리량 향상을 위한 파이프라이닝 기술.
 
-## Key Achievements
+## 주요 성취
 
-* I analyzed **simple instruction set structure (ISA)**, such as MIPS or RISC-V, and understood how each instruction runs inside the CPU.
-* The connection between operating systems and memory management has given me a deeper understanding of how to optimize software from a hardware perspective.
+* MIPS 또는 RISC-V와 같은 **간단한 명령어 집합 구조(ISA)** 분석 및 각 명령어가 CPU 내부에서 수행되는 방식 이해.
+* 운영체제와 메모리 관리 간의 연결을 이해하며, 하드웨어 관점에서 소프트웨어 최적화 방법을 깊이 이해.
 
-{{< callout Impression >}}
-Through this course, I have a clear picture of how the code written by the programmer actually runs on the hardware, which broadens my system optimization vision.
-{{</callout >}}
+{{< callout **느낀점** >}}
+이 과목을 통해 프로그래머가 작성한 코드가 실제 하드웨어에서 어떻게 실행되는지 명확히 이해하게 되었으며, 시스템 최적화 시야가 넓어졌습니다.
+{{< /callout >}}

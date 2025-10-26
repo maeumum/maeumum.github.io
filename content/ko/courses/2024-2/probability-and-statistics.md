@@ -1,19 +1,18 @@
 ---
-title: Probability and Statistics
+title: 확률과 통계
 weight: 50
 ---
 
-## Core Learning Topics
+## 핵심 학습 주제
 
-* **Probability Theory:** Concepts of conditional probability, Bayes' theorem, and random variables.
-* **Distributions:** Study of major probability distributions (Binomial, Normal, Poisson) and their applications in data modeling.
-* **Statistical Inference:** Principles of hypothesis testing, confidence intervals, and regression analysis basics.
+* **확률 이론:** 조건부 확률, 베이즈 정리, 확률 변수 개념.
+* **분포:** 주요 확률 분포(이항, 정규, 포아송) 학습 및 데이터 모델링 응용.
+* **통계적 추론:** 가설 검정, 신뢰 구간, 회귀 분석 기초 원리.
 
-## Key Achievements
+## 주요 성취
 
+* 머신러닝 알고리즘(예: 나이브 베이즈 분류기)이 통계적 원리에 기반한다는 것을 이해하며, AI 분야 학습을 위한 수학적 기초 마련.
 
-* Understanding that machine learning algorithms (e.g., Naive Bayes classifier) are based on statistical principles, we have laid the mathematical foundation for learning in the field of AI.
-
-{{< callout Impression >}}
-I gained confidence in the field of data science by learning a statistical mindset that quantifies patterns and uncertainties hidden in data.
+{{< callout **느낀점** >}}
+데이터에 숨겨진 패턴과 불확실성을 수치화하는 통계적 사고방식을 배우며 데이터 과학 분야에 대한 자신감을 얻었습니다.
 {{< /callout >}}
