@@ -6,7 +6,7 @@
 # Website name
 title: MaEum's homepage
 # Website URL
-baseURL: 'https://maeumum.github.io/ko/'
+baseURL: 'https://maeumum.github.io/'
 
 ############################
 ## LANGUAGE
@@ -14,7 +14,7 @@ baseURL: 'https://maeumum.github.io/ko/'
 
 defaultContentLanguage: ko
 hasCJKLanguage: true
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false
 removePathAccents: true
 
 ############################
