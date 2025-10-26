@@ -12,9 +12,9 @@ baseURL: 'https://maeumum.github.io'
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
-hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
+defaultContentLanguage: ko
+hasCJKLanguage: true
+defaultContentLanguageInSubdir: true
 removePathAccents: true
 
 ############################

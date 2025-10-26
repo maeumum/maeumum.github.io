@@ -6,7 +6,7 @@
 ko:
   languageCode: ko-kr
   languageName: 한국어
-  weight: 1
+  weight: 2
   title: "마음의 홈페이지"
   params:
     description: "전북대학교 컴퓨터인공지능학부 학생 마음의 포트폴리오 및 학습 기록"
@@ -16,7 +16,7 @@ ko:
 en:
   languageCode: en-us
   languageName: English
-  weight: 2
+  weight: 1
   title: "MaEum's Homepage"
   params:
     description: "Portfolio of MaEum, Computer Science and AI student at JBNU"
