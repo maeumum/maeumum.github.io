@@ -16,4 +16,4 @@ weight: 10
 
 {{< callout Impression >}}
 While inefficient code works, i realize that algorithmic design has a decisive impact on performance in large data environments.
-{{< /callout >}}
+{{</callout >}}
