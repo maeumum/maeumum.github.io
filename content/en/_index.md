@@ -25,8 +25,7 @@ sections:
         size: medium
         shape: circle
 
-  - block: gallery
-    id: image-slider
+    -block: gallery
     content:
       title: ''
       subtitle: ''
@@ -42,5 +41,6 @@ sections:
       interval: 4000
     design:
       columns: '1'
-      spacing: '2rem'
+      spacing:
+        padding: ['2rem', '2rem', '2rem', '2rem']
 ---
