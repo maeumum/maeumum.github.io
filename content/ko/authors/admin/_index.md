@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Computer Science Student
+role: 컴퓨터공학 전공 학생
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
