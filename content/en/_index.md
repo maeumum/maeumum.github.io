@@ -25,7 +25,7 @@ sections:
         size: medium
         shape: circle
 
-    -block: gallery
+  - block: gallery
     content:
       title: ''
       subtitle: ''
