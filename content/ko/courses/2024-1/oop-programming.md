@@ -13,6 +13,6 @@ weight: 20
 
 팀 프로젝트를 통해 Java를 사용한 간단한 게임 구현 및 OOP 원리 적용.
 
-{{< callout Impression >}}
+{{< callout 느낀점 >}}
 이 과목을 통해 OOP가 코드 재사용성과 유지보수성을 극대화하는 중요한 패러다임임을 깨달았습니다.
 {{< /callout >}}
