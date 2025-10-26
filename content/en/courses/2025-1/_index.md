@@ -36,6 +36,6 @@ This semester focused on specializing in core computer science fields, led by **
   {{< card url="artificial-intelligence" title="Artificial Intelligence" icon="eye" subtitle="Learning core AI principles, including search, knowledge representation, and machine learning fundamentals." >}}
   {{< card url="operating-system" title="Operating System" icon="server" subtitle="Understanding OS core concepts: process management, memory allocation, and file systems." >}}
   {{< card url="database" title="Database" icon="table-cells" subtitle="Mastering the relational model, SQL, transactions, and database design/normalization." >}}
-  {{< card url="computer-network" title="Computer Network" icon="ethernet" subtitle="Advanced study of network architecture, protocols, and routing algorithms." >}}
-  {{< card url="numerical-optimization" title="Numerical Analysis & Optimization" icon="chart-line-square" subtitle="Acquiring numerical calculation and optimization techniques based on calculus and linear algebra." >}}
+  {{< card url="computer-network" title="Computer Network" icon="link" subtitle="Advanced study of network architecture, protocols, and routing algorithms." >}}
+  {{< card url="numerical-optimization" title="Numerical Analysis & Optimization" icon="arrow-trending-up" subtitle="Acquiring numerical calculation and optimization techniques based on calculus and linear algebra." >}}
 {{< /cards >}}
