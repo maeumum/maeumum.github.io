@@ -48,6 +48,7 @@ sections:
       interval: 4000 # 밀리초 단위 (4초)
     design:
       columns: '1'
+      spacing: '2rem'
   - block: markdown
     content:
       title: '📚 My Research'
