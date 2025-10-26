@@ -1,5 +1,5 @@
 ---
-title: OOP Programing Team Project
+title: OOP 프로그래밍 팀 프로젝트
 date: 2024-06-11
 links:
   - type: site
@@ -10,6 +10,4 @@ tags:
   - Server-Client
 ---
 
-Team project to develop Cookie Run game using java
-
-<!--more-->
+Java를 이용해 쿠키런 게임을 개발한 팀 프로젝트
