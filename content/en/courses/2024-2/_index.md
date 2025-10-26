@@ -31,7 +31,7 @@ This semester focused on enhancing problem-solving capabilities through **Algori
 ## Detailed Course Records
 
 {{< cards >}}
-  {{< card url="algorithms" title="Algorithms" icon="presentation-chart-line" subtitle="Learned problem-solving techniques like sorting/searching algorithms, graph theory, and dynamic programming." >}}
+  {{< card url="algorithm" title="Algorithms" icon="presentation-chart-line" subtitle="Learned problem-solving techniques like sorting/searching algorithms, graph theory, and dynamic programming." >}}
   {{< card url="software-engineering" title="Software Engineering" icon="list-bullet" subtitle="Studied systematic development methodologies such as requirements analysis, UML, Waterfall/Agile models." >}}
   {{< card url="data-communication" title="Data Communication" icon="wifi" subtitle="Learned communication principles like the OSI 7-layer model, TCP/IP, and network protocols." >}}
   {{< card url="computer-architecture" title="Computer Architecture" icon="cpu-chip" subtitle="Understood the operating principles of computer hardware including CPU, memory, and pipelining." >}}

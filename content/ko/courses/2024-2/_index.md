@@ -31,7 +31,7 @@ image:
 ## 상세 강좌 기록
 
 {{< cards >}}
-  {{< card url="algorithms" title="알고리즘" icon="presentation-chart-line" subtitle="정렬/탐색 알고리즘, 그래프 이론, 동적 프로그래밍 등 문제 해결 기법 학습." >}}
+  {{< card url="algorithm" title="알고리즘" icon="presentation-chart-line" subtitle="정렬/탐색 알고리즘, 그래프 이론, 동적 프로그래밍 등 문제 해결 기법 학습." >}}
   {{< card url="software-engineering" title="소프트웨어 공학" icon="list-bullet" subtitle="요구사항 분석, UML, 워터폴/애자일 모델 등 체계적 개발 방법론 학습." >}}
   {{< card url="data-communication" title="데이터 통신" icon="wifi" subtitle="OSI 7계층 모델, TCP/IP, 네트워크 프로토콜 등 통신 원리 학습." >}}
   {{< card url="computer-architecture" title="컴퓨터 구조" icon="cpu-chip" subtitle="CPU, 메모리, 파이프라이닝 등 컴퓨터 하드웨어 동작 원리 이해." >}}
