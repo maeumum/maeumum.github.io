@@ -1,42 +1,38 @@
 ---
-title: AMA (Ask Me Anything) Great TALK!
-event: 2025 SW Startup Special Lecture
+title: AMA (Ask Me Anything) 괜찮은 TALK!
+event: 2025 SW 창업 특별강연
 event_url: https://www.jbnu.ac.kr/web/Board/192230/detailView.do
-location: Jeonbuk National University Grand Auditorium, 1st Floor, Jeondae Academic & Cultural Center
+location: 전북대학교 대강당, 1층, 전대학술문화관
 address:
-  street: 567 Baekje-daero
-  city: Jeonju
-  region: Jeollabuk-do
+  street: 백제로 567
+  city: 전주
+  region: 전라북도
   postcode: '54896'
-  country: South Korea
+  country: 대한민국
 
-summary: Attended a special lecture by Chairman Chang Byung-gyu of KRAFTON on entrepreneurship and business management.
+summary: KRAFTON 장병규 회장의 창업과 경영 특강에 참여함.
 
-abstract: 'A special startup lecture hosted by JBNU SW-Centered University Project, where Chairman Chang Byung-gyu of KRAFTON shared his vivid experiences and insights on entrepreneurship, business management, and the software industry. The event was conducted in an Ask Me Anything format, allowing free communication between students and the speaker.'
+abstract: '전북대학교 SW 중심대학 사업 주최 특별 창업 강연으로, KRAFTON 장병규 회장이 창업, 경영, 소프트웨어 산업에 대한 생생한 경험과 통찰을 공유. AMA(Ask Me Anything) 형식으로 진행되어 학생들과 자유롭게 소통.'
 
-# Talk start and end times.
 date: '2025-09-24T13:30:00+09:00'
 date_end: '2025-09-24T16:00:00+09:00'
 all_day: false
-
-# Schedule page publish date (NOT talk date).
 publishDate: '2025-09-10T00:00:00Z'
 
 authors:
   - admin
 
 tags:
-  - Entrepreneurship
-  - Startup
-  - Software
+  - 창업
+  - 스타트업
+  - 소프트웨어
   - KRAFTON
-  - Special Lecture
+  - 특별강연
 
-# Is this a featured talk? (true/false)
 featured: true
 
 image:
-  caption: '2025 SW Startup Special Lecture Poster'
+  caption: '2025 SW 창업 특별강연 포스터'
   focal_point: Smart
   preview_only: false
 
@@ -47,114 +43,111 @@ links:
     url: https://www.krafton.com/
   - icon: university
     icon_pack: fas
-    name: JBNU SW-Centered University
-    url: https://www.jbnu.ac.kr/
+    name: 전북대학교 SW 중심대학
+    url: https://swuniv.jbnu.ac.kr/main/
   - icon: link
     icon_pack: fas
-    name: Event Notice
+    name: 행사 공지
     url: https://www.jbnu.ac.kr/web/Board/192230/detailView.do
 
 slides: ""
-
 projects: []
 ---
 
-## Event Overview
+## 행사 개요
 
-I attended the **2025 SW Startup Special Lecture** hosted by the Jeonbuk National University SW-Centered University Project. This special lecture featured Chairman Chang Byung-gyu of KRAFTON and was conducted in an "AMA (Ask Me Anything) Great TALK!" format.
+전북대학교 SW 중심대학 사업에서 주최한 **2025 SW 창업 특별강연**에 참석. KRAFTON 장병규 회장이 **AMA (Ask Me Anything) Great TALK!** 형식으로 강연을 진행.
 
-## Speaker Introduction
+## 연사 소개
 
-### Chairman Chang Byung-gyu (KRAFTON)
-- 🎮 **Chairman of KRAFTON**
-- 🏢 Notable work: Company that developed PLAYERUNKNOWN'S BATTLEGROUNDS (PUBG)
-- 💡 Representative leader in Korea's game industry
-- 🚀 Rich experience in entrepreneurship and innovation
+### 장병규 회장 (KRAFTON)
+- 🎮 **KRAFTON 회장**
+- 🏢 대표작: PLAYERUNKNOWN'S BATTLEGROUNDS (PUBG) 개발
+- 💡 국내 게임 산업 대표 리더
+- 🚀 풍부한 창업 및 혁신 경험
 
-## Event Details
+## 행사 상세
 
-### 📅 Date & Time
-- **September 24, 2025 (Wednesday)**
-- **13:30 ~ 16:00** (approx. 2.5 hours)
+### 📅 일시
+- **2025년 9월 24일 (수)**
+- **13:30 ~ 16:00** (약 2시간 30분)
 
-### 📍 Venue
-- Grand Auditorium, 1st Floor, Jeondae Academic & Cultural Center, Jeonbuk National University
-- 567 Baekje-daero, Deokjin-gu, Jeonju-si, Jeollabuk-do
+### 📍 장소
+- 전북대학교 전대학술문화관 1층 대강당
+- 전라북도 전주시 덕진구 백제로 567
 
-### 👥 Target Audience
-- University students in Jeonbuk region
-- Anyone interested in entrepreneurship in the province
-- **Approximately 200 attendees**
+### 👥 대상
+- 전북지역 대학생
+- 창업에 관심 있는 누구나
+- **약 200명 참석**
 
-## Program Schedule
+## 프로그램 일정
 
-| Time | Program | Details |
+| 시간 | 프로그램 | 세부내용 |
 |------|---------|---------|
-| 13:00 ~ 13:20 | **Pre-event** | VIP tea time |
-| 13:20 ~ 13:30 | **Move & Introduction** | Speaker introduction |
-| 13:30 ~ 15:30 | **Main Lecture** | AMA Great TALK! (120 min) |
-| 15:30 ~ 16:00 | **Event** | Survey & prize draw |
+| 13:00 ~ 13:20 | **사전행사** | VIP 다과 시간 |
+| 13:20 ~ 13:30 | **이동 및 소개** | 연사 소개 |
+| 13:30 ~ 15:30 | **본 강연** | AMA Great TALK! (120분) |
+| 15:30 ~ 16:00 | **행사 종료** | 설문조사 및 경품 추첨 |
 
-## Key Content
+## 핵심 내용
 
-### 💬 Ask Me Anything (AMA) Format
-- Open dialogue format where attendees can freely ask questions
-- Discussion on various topics including entrepreneurship, management, and gaming industry
-- Practical advice based on real experiences
+### 💬 AMA 형식
+- 참가자가 자유롭게 질문할 수 있는 오픈 대화
+- 창업, 경영, 게임 산업 등 다양한 주제 토론
+- 실무 경험에 기반한 실질적 조언 제공
 
-### 🎯 Topics Covered
-1. **Startup Story**: KRAFTON's growth journey
-2. **Software Industry**: Game development and global market
-3. **Challenges & Failures**: Overcoming difficulties
-4. **Future Vision**: The future of the software industry
-5. **Advice for Students**: Career development guidance
+### 🎯 다룬 주제
+1. **스타트업 이야기**: KRAFTON 성장 과정
+2. **소프트웨어 산업**: 게임 개발 및 글로벌 시장
+3. **도전과 실패**: 어려움 극복 사례
+4. **미래 비전**: 소프트웨어 산업 전망
+5. **학생을 위한 조언**: 진로 개발 가이드
 
-## Participation Benefits
+## 주요 인사이트 및 소감
 
-## Key Takeaways & Reflections
+### 💡 핵심 통찰
 
-### 💡 Major Insights
+#### 1. 창업 실무 조언
+장 회장은 "실패를 두려워하지 말고 배우라" 강조. KRAFTON 성공 이전의 다양한 시행착오와 극복 과정 공유.
 
-#### 1. Practical Advice on Entrepreneurship
-Chairman Chang emphasized "Don't fear failure, learn from it." He candidly shared the various trials and overcoming processes before KRAFTON's success.
+#### 2. 글로벌 마인드 중요성
+PUBG 성공 사례를 통해 초기부터 글로벌 시장을 겨냥하는 중요성 체득.
 
-#### 2. Importance of Global Mindset
-Through PUBG's success story, I learned the importance of targeting the global market from the beginning.
+#### 3. 기술과 창의성의 융합
+기술만으로는 부족하며, 창의적 아이디어와 사용자 경험 중심 개발이 필수임을 인식.
 
-#### 3. Fusion of Technology and Creativity
-I realized that technology alone is not enough; creative ideas and user experience-focused development are crucial.
+#### 4. 팀워크 및 조직문화
+우수 인재 채용과 자율적·창의적 조직 문화 구축이 성공적인 회사의 핵심임 강조.
 
-#### 4. Teamwork and Organizational Culture
-He emphasized that recruiting excellent talent and creating an autonomous and creative organizational culture is key to building a successful company.
+### 🎓 개인적 배움
 
-### 🎓 What Remains with Me
+이번 강연을 통해 소프트웨어 개발자로서의 꿈이 구체화됨. 특히 다음을 실천 목표로 삼음:
 
-Through this lecture, my dream as a software developer became more concrete. In particular, I aim to practice the following:
+- ✅ **지속적 학습**: 빠르게 변화하는 기술 트렌드 학습
+- ✅ **글로벌 시각**: 국내 시장에 국한되지 않는 넓은 시야
+- ✅ **사용자 중심 사고**: 기술보다 사람을 먼저
+- ✅ **도전 정신**: 실패를 두려워하지 않는 용기
 
-- ✅ **Continuous Learning**: Keeping up with rapidly changing technology trends
-- ✅ **Global Perspective**: A broad view not limited to domestic markets
-- ✅ **User-Centric Thinking**: People before technology
-- ✅ **Challenging Spirit**: Courage not to fear failure
+## 주최 및 주관
 
-## Organized & Hosted By
+### 주최
+- 🏛️ 과학기술정보통신부
+- 🏛️ 정보통신산업진흥원
+- 🏛️ 전북대학교 SW 중심대학 사업
+- 🏛️ 전북지방중소벤처기업청
 
-### Organized By
-- 🏛️ Ministry of Science and ICT
-- 🏛️ National IT Industry Promotion Agency
-- 🏛️ JBNU SW-Centered University Project
-- 🏛️ Jeonbuk Regional Office of SMEs and Startups
+### 주관
+- 🎓 전북대학교 SW 중심대학 사업
+- 🎓 군산대학교
+- 🎓 전북대학교 창업지원단
 
-### Hosted By
-- 🎓 JBNU SW-Centered University Project
-- 🎓 Kunsan National University
-- 🎓 JBNU Startup Support Foundation
+## 문의
 
-## Contact Information
-
-- 📞 **Phone**: 063-219-5788
-- 🏢 **Department**: SW Industry-Academia Cooperation, SW-Centered University Project
-- 🌐 **Website**: [Jeonbuk National University](https://www.jbnu.ac.kr/)
+- 📞 **전화**: 063-219-5788
+- 🏢 **부서**: SW 산학협력, SW 중심대학 사업
+- 🌐 **웹사이트**: [전북대학교](https://www.jbnu.ac.kr/)
 
 ---
 
-> 💭 **Review**: It was a truly meaningful time to meet and hear from an IT industry leader I've long admired. My passion for entrepreneurship and the software industry has grown even stronger, and it greatly helped me set my future career direction!
+> 💭 **후기**: 오랫동안 존경해 온 IT 산업 리더를 직접 만나 강연을 들을 수 있었던 뜻깊은 시간. 창업과 소프트웨어 산업에 대한 열정이 더욱 커졌고, 미래 진로 설정에 큰 도움이 됨.

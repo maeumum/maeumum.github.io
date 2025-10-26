@@ -48,7 +48,7 @@ links:
   - icon: university
     icon_pack: fas
     name: JBNU SW-Centered University
-    url: https://www.jbnu.ac.kr/
+    url: https://swuniv.jbnu.ac.kr/main/
   - icon: link
     icon_pack: fas
     name: Event Notice
@@ -109,7 +109,6 @@ I attended the **2025 SW Startup Special Lecture** hosted by the Jeonbuk Nationa
 4. **Future Vision**: The future of the software industry
 5. **Advice for Students**: Career development guidance
 
-## Participation Benefits
 
 ## Key Takeaways & Reflections
 
