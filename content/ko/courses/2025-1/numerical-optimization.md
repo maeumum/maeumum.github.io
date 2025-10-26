@@ -1,19 +1,19 @@
 ---
-title: Numerical Analysis and Optimization
+title: 수치 해석 및 최적화
 weight: 20
 ---
 
-## Core Learning Topics
+## 핵심 학습 주제
 
-* **Root Finding:** Algorithms for finding roots of non-linear equations, such as Newton's Method.
-* **Optimization Algorithms:** Principles of unconstrained optimization, focusing on **Gradient Descent** and its variants (essential for deep learning).
-* **Numerical Methods:** Techniques for numerical differentiation, integration, and solving systems of linear equations (e.g., Gaussian Elimination).
+* **근 찾기:** 뉴턴법과 같은 비선형 방정식 근 찾기 알고리즘.
+* **최적화 알고리즘:** 제약 없는 최적화 원리, **경사 하강법(Gradient Descent)** 및 변형 기법 중심(딥러닝 필수).
+* **수치 해석 기법:** 수치 미분, 적분, 선형 방정식 시스템 해결 기법(예: 가우스 소거법).
 
-## Key Achievements
+## 주요 성취
 
-* **Algorithm Implementation:** Implemented the Gradient Descent algorithm in Python/MATLAB to find the minimum of a simple cost function.
-* **Mathematical Foundation:** Gained a solid mathematical and algorithmic basis necessary to understand complex machine learning model training processes.
+* **알고리즘 구현:** Python/MATLAB으로 간단한 비용 함수 최소값을 찾기 위해 경사 하강법 구현.
+* **수학적 기초:** 복잡한 머신러닝 모델 학습 과정을 이해하는 데 필요한 수학적·알고리즘적 기초 확보.
 
-{{< callout Impresssion >}}
-This course provides the mathematical backbone for understanding how AI models learn and minimize error, bridging the gap between theory and practical optimization.
-{{</callout >}}
+{{< callout 느낀점 >}}
+이 과목은 AI 모델이 학습하고 오류를 최소화하는 과정을 이해하기 위한 수학적 기반을 제공하며, 이론과 실무 최적화 간의 간극을 연결합니다.
+{{< /callout >}}

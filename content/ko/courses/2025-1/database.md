@@ -1,19 +1,19 @@
 ---
-title: Datebase
+title: 데이터베이스
 weight: 10
 ---
 
-## Core Learning Topics
+## 핵심 학습 주제
 
-* **Relational Model:** Deep understanding of relational algebra, functional dependencies, and normalization (up to 3NF).
-* **SQL Mastery:** Advanced use of Data Manipulation Language (DML) and Data Definition Language (DDL) for complex queries and schema creation.
-* **Transaction Management:** Principles of ACID properties, concurrency control (e.g., locking), and recovery mechanisms.
+* **관계형 모델:** 관계 대수, 함수적 종속성, 정규화(3NF까지)에 대한 심화 이해.
+* **SQL 숙련:** 복잡한 쿼리와 스키마 생성을 위한 데이터 조작 언어(DML)와 데이터 정의 언어(DDL) 고급 활용.
+* **트랜잭션 관리:** ACID 속성, 동시성 제어(예: 락킹), 복구 메커니즘 원리.
 
-## Key Achievements
+## 주요 성취
 
-* **Schema Design:** Successfully designed and implemented a normalized relational database schema for a practical scenario (e.g., university administration or e-commerce).
-* **Advanced Queries:** Proficiently wrote complex SQL queries utilizing subqueries, joins, and views.
+* **스키마 설계:** 실무 시나리오(예: 대학 행정, 전자상거래)를 위한 정규화된 관계형 데이터베이스 스키마 설계 및 구현 성공.
+* **고급 쿼리:** 서브쿼리, 조인, 뷰를 활용한 복잡한 SQL 쿼리 능숙하게 작성.
 
-{{< callout Impression >}}
-Focus on mastering the theory of normalization and ACID properties, as these are critical for maintaining data integrity in real-world applications.
+{{< callout 느낀점 >}}
+정규화와 ACID 속성 이론을 숙지하는 데 집중, 이는 실제 애플리케이션에서 데이터 무결성을 유지하는 데 핵심적임을 깨달았습니다.
 {{< /callout >}}

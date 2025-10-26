@@ -1,19 +1,19 @@
 ---
-title: Artificial Intelligence
+title: 인공지능
 weight: 40
 ---
 
-## Core Learning Topics
+## 핵심 학습 주제
 
-* **Problem Solving & Search:** Principles and implementation of uninformed search (BFS/DFS) and informed search algorithms (A*, Greedy Best-First).
-* **Knowledge Representation:** Introduction to propositional and first-order logic for representing knowledge and automated reasoning.
-* **Machine Learning Introduction:** Fundamental concepts of machine learning, including supervised/unsupervised learning, Perceptron, and basic Neural Network structures.
+* **문제 해결 및 탐색:** 무정보 탐색(BFS/DFS)과 휴리스틱 탐색(A*, 탐욕 우선) 알고리즘의 원리 및 구현.
+* **지식 표현:** 지식 표현과 자동 추론을 위한 명제 논리 및 1차 논리 개념 소개.
+* **머신러닝 기초:** 지도학습/비지도학습, 퍼셉트론, 기본 신경망 구조 등 머신러닝 기초 개념.
 
-## Key Achievements
+## 주요 성취
 
-* **Search Implementation:** Implemented the A* search algorithm to efficiently solve pathfinding problems in a simulated environment.
-* **AI Logic:** Successfully modeled simple expert system rules using logic programming principles.
+* **탐색 구현:** 시뮬레이션 환경에서 경로 탐색 문제를 효율적으로 해결하기 위해 A* 탐색 알고리즘 구현.
+* **AI 논리:** 논리 프로그래밍 원리를 활용하여 간단한 전문가 시스템 규칙 모델링 성공.
 
-{{< callout Impression >}}
-This course provides the conceptual framework for understanding the intelligent behavior of modern systems, establishing the foundation for future deep learning studies.
-{{</callout >}}
+{{< callout 느낀점 >}}
+이 과목은 현대 시스템의 지능적 행동을 이해하기 위한 개념적 틀을 제공하며, 향후 딥러닝 학습을 위한 기초를 마련했습니다.
+{{< /callout >}}

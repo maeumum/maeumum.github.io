@@ -1,20 +1,20 @@
 ---
-title: Operating System
+title: 운영체제
 weight: 50
 ---
 
-## Core Learning Topics
+## 핵심 학습 주제
 
-* **Process & Thread Management:** Understanding process lifecycle, context switching, and the benefits of multi-threading.
-* **CPU Scheduling:** Analysis of various scheduling algorithms (FCFS, SJF, Priority, Round Robin) and their impact on system throughput.
-* **Memory Management:** In-depth study of **Paging**, **Segmentation**, and the implementation of **Virtual Memory**.
-* **Concurrency Control:** Solutions to synchronization problems (e.g., Semaphores, Monitors) and the Deadlock problem.
+* **프로세스 및 스레드 관리:** 프로세스 생명주기, 컨텍스트 스위칭, 멀티스레딩의 장점 이해.
+* **CPU 스케줄링:** 다양한 스케줄링 알고리즘(FCFS, SJF, 우선순위, 라운드 로빈) 분석 및 시스템 처리량에 미치는 영향.
+* **메모리 관리:** **페이징**, **세그멘테이션**, **가상 메모리** 구현에 대한 심화 학습.
+* **동시성 제어:** 동기화 문제 해결(세마포어, 모니터 등)과 교착 상태 문제.
 
-## Key Achievements
+## 주요 성취
 
-* **Scheduling Simulation:** Created simulations (in C/C++) to compare the performance metrics (e.g., waiting time, turnaround time) of different CPU scheduling policies.
-* **System Understanding:** Gained critical insight into the complex mechanisms that manage hardware resources, preparing me for low-level system programming.
+* **스케줄링 시뮬레이션:** C/C++로 다양한 CPU 스케줄링 정책의 성능 지표(대기 시간, 반환 시간 등)를 비교하는 시뮬레이션 작성.
+* **시스템 이해:** 하드웨어 자원을 관리하는 복잡한 메커니즘에 대한 핵심 이해, 저수준 시스템 프로그래밍 준비.
 
-{{< callout Impression >}}
-Understanding the OS is key to optimizing any software application; this course provided the tools to analyze resource consumption and system bottlenecks effectively.
-{{</callout >}}
+{{< callout 느낀점 >}}
+운영체제 이해는 소프트웨어 최적화의 핵심이며, 이 과목을 통해 자원 사용 및 시스템 병목 현상을 효과적으로 분석할 수 있는 도구를 습득했습니다.
+{{< /callout >}}

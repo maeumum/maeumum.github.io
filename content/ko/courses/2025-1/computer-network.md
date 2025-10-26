@@ -1,19 +1,19 @@
 ---
-title: Computer Network
+title: 컴퓨터 네트워크
 weight: 30
 ---
 
-## Core Learning Topics
+## 핵심 학습 주제
 
-* **Network Architecture:** Advanced study of the Internet Protocol (IP) and Transport Layer Protocols (TCP/UDP) functionalities.
-* **Routing & Addressing:** Detailed examination of IP addressing (Subnetting, CIDR) and popular routing algorithms (e.g., Dijkstra's, Link-State).
-* **Application Layer:** Protocols and functions of HTTP, DNS, and Email systems.
+* **네트워크 아키텍처:** 인터넷 프로토콜(IP) 및 전송 계층 프로토콜(TCP/UDP) 기능 심화 학습.
+* **라우팅 및 주소 지정:** IP 주소 지정(서브넷팅, CIDR)과 주요 라우팅 알고리즘(예: 다익스트라, 링크 상태) 상세 분석.
+* **응용 계층:** HTTP, DNS, 이메일 시스템 등 응용 계층 프로토콜과 기능.
 
-## Key Achievements
+## 주요 성취
 
-* **Packet Analysis:** Used **Wireshark** to capture and analyze network traffic, confirming the function of various protocols (ARP, DHCP, TCP handshake).
-* **Socket Programming Project:** Developed a simple network application (e.g., a file transfer utility) using Python sockets to demonstrate end-to-end communication.
+* **패킷 분석:** **Wireshark**를 사용하여 네트워크 트래픽 캡처 및 분석, 다양한 프로토콜(ARP, DHCP, TCP 핸드셰이크) 기능 확인.
+* **소켓 프로그래밍 프로젝트:** Python 소켓을 사용한 간단한 네트워크 애플리케이션(예: 파일 전송 도구) 개발, 종단 간 통신 실습.
 
-{{< callout Impression >}}
-Deepened the understanding of the network stack, which is vital for diagnosing performance issues in distributed systems and cloud services.
-{{</callout >}}
+{{< callout 느낀점 >}}
+분산 시스템 및 클라우드 서비스의 성능 문제 진단에 필수적인 네트워크 스택 이해를 심화했습니다.
+{{< /callout >}}
