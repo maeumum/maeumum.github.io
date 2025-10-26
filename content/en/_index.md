@@ -29,17 +29,17 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  - block : gallery
+  - block: gallery
     id : image-slider
     content:
       title: ''
       subtitle: ''
       items:
-        - image: slide1.jpg
+        - image: media/slide1.jpg
           caption: 'Exploring AI frontiers'
-        - image: slide2.jpg
+        - image: media/slide2.jpg
           caption: 'Collaborative research'
-        - image: slide3.jpg
+        - image: media/slide3.jpg
           caption: 'Data-driven innovation'
       # 슬라이더(캐러셀) 활성화
       slider: true
