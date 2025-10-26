@@ -1,18 +1,18 @@
 ---
-title: Linear Algebra
+title: 선형대수
 weight: 50
 ---
 
-## Core Learning Topics
+## 핵심 학습 주제
 
-* **Matrix Operations:** Understanding and performing operations like matrix multiplication, transpose, and inverse.
-* **Vector Space:** Concepts of vectors, basis, dimension, and linear independence.
-* **Eigenvalues and Eigenvectors:** Theoretical understanding of eigenvalues and their application in data analysis (e.g., PCA basis).
+* **행렬 연산:** 행렬 곱셈, 전치, 역행렬 등 연산 이해 및 수행.
+* **벡터 공간:** 벡터, 기저, 차원, 선형 독립성 개념.
+* **고유값과 고유벡터:** 고유값의 이론적 이해 및 데이터 분석 응용(PCA 기초 등).
 
-## Key Achievements
+## 주요 성취
 
-Gained a mathematical foundation necessary for advanced computer science fields like Machine Learning and Computer Vision.
+머신러닝, 컴퓨터 비전 등 고급 컴퓨터공학 분야에 필요한 수학적 기초 습득.
 
 {{< callout Impression >}}
-I understood from this subject that linear algebra is a key tool in data conversion and spatial analysis.
+이 과목을 통해 선형대수가 데이터 변환과 공간 분석에서 핵심 도구임을 이해했습니다.
 {{< /callout >}}

@@ -1,18 +1,18 @@
 ---
-title: Data Structure
+title: 자료구조
 weight: 30
 ---
 
-## Core Learning Topics
+## 핵심 학습 주제
 
-* **Linear Structures:** Implementation and utilization of Stack, Queue, and Linked Lists (Singly, Doubly).
-* **Non-linear Structures:** Principles and traversal methods (BFS/DFS) of Trees and Graphs.
-* **Performance Analysis:** Understanding and analyzing the time complexity ($O(N), O(\log N)$) of various data structures.
+* **선형 구조:** 스택, 큐, 연결 리스트(단일, 이중)의 구현 및 활용.
+* **비선형 구조:** 트리와 그래프의 원리 및 순회 방법(BFS/DFS).
+* **성능 분석:** 다양한 자료구조의 시간 복잡도($O(N), O(\log N)$) 이해 및 분석.
 
-## Key Achievements
+## 주요 성취
 
-Successfully implemented fundamental data structures (Stack using Array, Queue using Linked List) in C++.
+C++로 기본 자료구조(배열 기반 스택, 연결 리스트 기반 큐) 성공적으로 구현.
 
 {{< callout Impression >}}
-Through this course, I felt how important it is to choose the right data structure for efficiency when solving algorithmic problems.
+이 강좌를 통해 알고리즘 문제를 해결할 때 효율성을 위해 올바른 자료구조를 선택하는 것이 얼마나 중요한지 느꼈습니다.
 {{< /callout >}}

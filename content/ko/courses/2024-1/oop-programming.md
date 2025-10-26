@@ -1,18 +1,18 @@
 ---
-title: OOP Promgramming
+title: 객체지향 프로그래밍
 weight: 20
 ---
 
-## Core Learning Topics
+## 핵심 학습 주제
 
-* **OOP Principles:** Deep understanding of the Four Pillars of OOP (Abstraction, Encapsulation, Inheritance, Polymorphism).
-* **Java Implementation:** Practical implementation exercises using the Java language.
-* **Server-Client Model:** Basics of network programming through a simple Server-Client application development.
+* **OOP 원리:** OOP의 네 가지 핵심 원리(추상화, 캡슐화, 상속, 다형성)에 대한 깊은 이해.
+* **Java 구현:** Java 언어를 활용한 실습 구현 연습.
+* **서버-클라이언트 모델:** 간단한 서버-클라이언트 애플리케이션 개발을 통한 네트워크 프로그래밍 기초.
 
-## Key Achievements
+## 주요 성취
 
-Team project conducted to implement a simple game using Java and apply OOP principles.
+팀 프로젝트를 통해 Java를 사용한 간단한 게임 구현 및 OOP 원리 적용.
 
 {{< callout Impression >}}
-Through this subject, I realized that OOP is an important paradigm for maximizing reusability and maintenance of code.
+이 과목을 통해 OOP가 코드 재사용성과 유지보수성을 극대화하는 중요한 패러다임임을 깨달았습니다.
 {{< /callout >}}

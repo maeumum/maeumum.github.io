@@ -1,18 +1,18 @@
 ---
-title: Logic Design
+title: 논리 설계
 weight: 70
 ---
 
-## Core Learning Topics
+## 핵심 학습 주제
 
-* **Logic Gates & Boolean Algebra:** Fundamental concepts of AND, OR, NOT, XOR gates and simplification using Karnaugh maps.
-* **Combinational Circuits:** Design and analysis of circuits like Adders, Multiplexers, and Decoders.
-* **Sequential Circuits:** Principles of Latches, Flip-flops (D, JK, T), and basic Register design.
+* **논리 게이트 및 불 대수:** AND, OR, NOT, XOR 게이트의 기본 개념과 카르노 맵을 이용한 단순화.
+* **조합 회로:** 가산기, 멀티플렉서, 디코더 등 회로 설계 및 분석.
+* **순차 회로:** 래치, 플립플롭(D, JK, T) 원리 및 기본 레지스터 설계.
 
-## Key Achievements
+## 주요 성취
 
-Designed and simulated a simple digital circuit (e.g., 4-bit adder) using a hardware description language (HDL) or simulation tools.
+하드웨어 기술 언어나 시뮬레이션 도구를 사용하여 간단한 디지털 회로(예: 4비트 가산기) 설계 및 시뮬레이션 수행.
 
 {{< callout Impression >}}
-This course provided the basis for increasing hardware understanding of how the CPU in computer architecture operates on clock basis.
+이 과목을 통해 컴퓨터 구조에서 CPU가 클록 기반으로 동작하는 원리를 이해하는 하드웨어 기초를 쌓았습니다.
 {{< /callout >}}

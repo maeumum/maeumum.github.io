@@ -1,18 +1,18 @@
 ---
-title: Linux Promgramming
+title: 리눅스 프로그래밍
 weight: 60
 ---
 
-## Core Learning Topics
+## 핵심 학습 주제
 
-* **Shell Scripting:** Writing basic to intermediate level shell scripts (Bash) for automation tasks.
-* **System Calls:** Understanding and using fundamental Linux system calls for file I/O and process management (fork, exec, wait).
-* **Development Environment:** Proficiency in using Linux-based development tools (gcc, make, gdb).
+* **쉘 스크립팅:** 자동화 작업을 위한 기본~중급 수준의 쉘 스크립트(Bash) 작성.
+* **시스템 호출:** 파일 입출력과 프로세스 관리를 위한 기본 Linux 시스템 호출(fork, exec, wait) 이해 및 활용.
+* **개발 환경:** Linux 기반 개발 도구(gcc, make, gdb) 숙련도 향상.
 
-## sKey Achievements
+## 주요 성취
 
-Developed a command-line tool in C that utilized system calls to perform file manipulation, demonstrating low-level system understanding.
+시스템 호출을 활용하여 파일 조작을 수행하는 C 기반 명령어 도구 개발, 저수준 시스템 이해 능력 입증.
 
 {{< callout Impression >}}
-I learned that understanding the Linux environment is fundamental to server development and system programming
+Linux 환경 이해가 서버 개발과 시스템 프로그래밍의 기본임을 배웠습니다.
 {{< /callout >}}
